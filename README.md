@@ -1,6 +1,7 @@
 # Hi, I'm visoire
 
-Full Stack Developer specializing in custom web applications, APIs, bots, and infrastructure setup. I build both classic and modern webstack projects with a focus on security and scalability.
+Full Stack Developer specializing in custom web applications, APIs, bots, and infrastructure setup. 
+I build both classic and modern webstack projects with a focus on security and scalability.
 
 ## About Me
 
