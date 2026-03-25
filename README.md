@@ -1,4 +1,4 @@
-# Hey, I'm visoire
+# Hey , I'm visoire 👋
 
 Full Stack Developer. I build custom websites, backends, APIs, bots, and handle infrastructure. I work with both classic PHP setups and modern Next.js stacks depending on what the project needs.
 
