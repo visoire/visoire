@@ -16,6 +16,20 @@ Complete VPS and VDS setups with Apache and Nginx
 Database design and optimization
 Full infrastructure solutions
 
+## Core Competencies
+
+Full Stack Web Development with modern and classic stacks
+API Design and Implementation
+Custom project development tailored to requirements
+Custom bots creation (for example discord or telegram)
+Database design, optimization, and management
+VPS/VDS setup and infrastructure management
+Server configuration with Apache and Nginx
+Security implementation across all layers
+Code review and quality assurance
+Performance optimization and monitoring
+Linux and Windows system administration
+
 ## Tech Stack
 
 ### Backend Languages
@@ -73,20 +87,6 @@ Web server configuration and optimization
 Firewall and security hardening
 Database server setup and maintenance
 
-## Core Competencies
-
-Full Stack Web Development with modern and classic stacks
-API Design and Implementation
-Custom project development tailored to requirements
-Discord and Telegram bot creation
-Database design, optimization, and management
-VPS/VDS setup and infrastructure management
-Server configuration with Apache and Nginx
-Security implementation across all layers
-Code review and quality assurance
-Performance optimization and monitoring
-Linux and Windows system administration
-
 ## Portfolio
 
 Check out my work and current projects at www.visoire.com
@@ -94,7 +94,6 @@ Check out my work and current projects at www.visoire.com
 ## Get In Touch
 
 Email: contact@visoire.com
-GitHub: https://github.com/visoire
 
 Available for custom projects, consultations, and collaborations. Let me know what you need built.
 
